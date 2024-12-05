@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5706ec6d-e7cf-412d-a46b-2175a75c74da" name="更改" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Exception" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="customMavenHome" value="C:\apache-maven-3.9.9" />
+        <option name="localRepository" value="C:\apache-maven-3.9.9\repository" />
+        <option name="mavenHomeTypeForPersistence" value="CUSTOM" />
+        <option name="useMavenConfig" value="false" />
+        <option name="userSettingsFile" value="C:\apache-maven-3.9.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2pH83toys95HJqklHCA7Tx2SEd8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showScratchesAndConsoles" value="false" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JUnit.EmployeesServiceTest.testInsert.executor&quot;: &quot;Debug&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.MvvmBackendApplication.executor&quot;: &quot;Debug&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.import&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.ymz.mvvmbackend.service" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.MvvmBackendApplication">
+    <configuration name="EmployeesServiceTest.testInsert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MVVM-backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ymz.mvvmbackend.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ymz.mvvmbackend.service" />
+      <option name="MAIN_CLASS_NAME" value="com.ymz.mvvmbackend.service.EmployeesServiceTest" />
+      <option name="METHOD_NAME" value="testInsert" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MvvmBackendApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="MVVM-backend" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ymz.mvvmbackend.MvvmBackendApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.EmployeesServiceTest.testInsert" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23726.103" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="5706ec6d-e7cf-412d-a46b-2175a75c74da" name="更改" comment="" />
+      <created>1732411446117</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732411446117</updated>
+      <workItem from="1732411447283" duration="475000" />
+      <workItem from="1732411933021" duration="66000" />
+      <workItem from="1732412017362" duration="1847000" />
+      <workItem from="1732696380073" duration="5440000" />
+      <workItem from="1732706507934" duration="120000" />
+      <workItem from="1732754694013" duration="2179000" />
+      <workItem from="1732757014418" duration="1156000" />
+      <workItem from="1732759443108" duration="148000" />
+      <workItem from="1732800621202" duration="68000" />
+      <workItem from="1732847237757" duration="15000" />
+      <workItem from="1733197327428" duration="957000" />
+      <workItem from="1733206897497" duration="18000" />
+      <workItem from="1733301099947" duration="5169000" />
+      <workItem from="1733306519785" duration="678000" />
+      <workItem from="1733317768074" duration="100000" />
+      <workItem from="1733358088357" duration="1812000" />
+      <workItem from="1733360087668" duration="1075000" />
+    </task>
+    <servers />
+  </component>
+</project>
